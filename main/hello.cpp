@@ -13,7 +13,7 @@ int main(void) {
 
   cout << "I have successfully built and run this  \n";
 
-  cout<<"I have made changes \n";
+  cout<<"I have made a change \n";
 
   return 0;
 
